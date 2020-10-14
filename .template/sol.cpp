@@ -1,12 +1,4 @@
-#include <iostream>
-#include <cstdio>
-#include <cstdlib>
-#include <algorithm>
-#include <cmath>
-#include <vector>
-#include <cassert>
-#include <string>
-#include <cstring>
+#include <bits/stdc++.h>
 
 #define int long long
 #define sz(x) (int)(x.size())
