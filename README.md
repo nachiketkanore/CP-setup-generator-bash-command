@@ -18,6 +18,7 @@ Generate your problem-solution setup for CP using bash command
 - following file will be created and opened in `sublime-text`
 `
 ```cpp
+/*
 Author: Nachiket Kanore
 Created: Wednesday 14 October 2020 04:10:13 PM IST
 (ツ) Don't compromise yourself. You are all you've got.
