@@ -23,15 +23,7 @@ Author: Nachiket Kanore
 Created: Wednesday 14 October 2020 04:10:13 PM IST	<= Time-stamp of file creation
 (ツ) Don't compromise yourself. You are all you've got. <= A random quote everytime
 */
-#include <iostream>
-#include <cstdio>
-#include <cstdlib>
-#include <algorithm>
-#include <cmath>
-#include <vector>
-#include <cassert>
-#include <string>
-#include <cstring>
+#include <bits/stdc++.h>
 
 #define int long long
 #define sz(x) (int)(x.size())
