@@ -20,8 +20,8 @@ Generate your problem-solution setup for CP using bash command
 ```cpp
 /*
 Author: Nachiket Kanore
-Created: Wednesday 14 October 2020 04:10:13 PM IST
-(ツ) Don't compromise yourself. You are all you've got.
+Created: Wednesday 14 October 2020 04:10:13 PM IST	<= Time-stamp of file creation
+(ツ) Don't compromise yourself. You are all you've got. <= A random quote everytime
 */
 #include <iostream>
 #include <cstdio>
