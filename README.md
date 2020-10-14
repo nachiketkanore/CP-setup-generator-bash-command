@@ -1,6 +1,11 @@
 # CP-setup-generator-bash-command
 Generate your problem-solution setup for CP using bash command
 
+# Features:
+- create a folder with your required files with just one call from terminal `go FOLDER_NAME`
+- opens it in `sublime-text`
+- `sol.cpp` contains `created time-stamp` and a `random quote`
+
 # Instructions:
 - paste the shell script (`command.sh`) in your `.bashrc` file
 - copy `.template` folder into your `root` directory
@@ -12,7 +17,7 @@ Generate your problem-solution setup for CP using bash command
 - fire `go 1234B` in terminal
 - following file will be created and opened in `sublime-text`
 `
-/*
+'''cpp
 Author: Nachiket Kanore
 Created: Wednesday 14 October 2020 04:10:13 PM IST
 (ツ) Don't compromise yourself. You are all you've got.
@@ -39,5 +44,5 @@ int32_t main() {
 	
 	
 }
-`
+'''
 
